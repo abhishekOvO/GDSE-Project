@@ -14,7 +14,7 @@ body {
     height: 100vh;
 }
 
-.container {
+.box{
     display: grid;
     grid-template-columns: 1fr .8fr .2fr 1fr;
     grid-template-rows: repeat(3, 1fr);
